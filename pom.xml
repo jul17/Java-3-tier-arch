@@ -70,14 +70,9 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0kkhzfn2isve-artifactory-primary-0-releases</name>
-        <url>https://awsjfrogdevops.jfrog.io/artifactory/aws-java-local</url>
+        <name>a0nymgefaiwwu-artifactory-primary-0-releases</name>
+        <url>https://edshopdpt8.jfrog.io/artifactory/libs-release-local</url>
     </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>a0kkhzfn2isve-artifactory-primary-0-snapshots</name>
-        <url>https://awsjfrogdevops.jfrog.io/artifactory/aws-java-local</url>
-    </snapshotRepository>
-</distributionManagement>
+</distributionManagement> 
 
 </project>
