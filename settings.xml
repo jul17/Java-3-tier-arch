@@ -21,14 +21,14 @@
             <enabled>false</enabled>
           </snapshots>
           <id>central</id>
-          <name>libs-release</name>
-          <url>https://awsjfrogdevops.jfrog.io/artifactory/libs-release</url>
+          <name>aws-java-app</name>
+          <url>https://awsjfrogdevops.jfrog.io/artifactory/aws-java-app</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
-          <name>libs-snapshot</name>
-          <url>https://awsjfrogdevops.jfrog.io/artifactory/libs-snapshot</url>
+          <name>aws-java-app</name>
+          <url>https://awsjfrogdevops.jfrog.io/artifactory/aws-java-app</url>
         </repository>
       </repositories>
       <pluginRepositories>
@@ -37,14 +37,14 @@
             <enabled>false</enabled>
           </snapshots>
           <id>central</id>
-          <name>libs-release</name>
-          <url>https://awsjfrogdevops.jfrog.io/artifactory/libs-release</url>
+          <name>aws-java-app</name>
+          <url>https://awsjfrogdevops.jfrog.io/artifactory/aws-java-app</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
-          <name>libs-snapshot</name>
-          <url>https://awsjfrogdevops.jfrog.io/artifactory/libs-snapshot</url>
+          <name>aws-java-app</name>
+          <url>https://awsjfrogdevops.jfrog.io/artifactory/aws-java-app</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
